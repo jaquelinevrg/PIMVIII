@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjetoAds8.props" />
+</Project>
